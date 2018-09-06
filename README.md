@@ -1,10 +1,10 @@
 ## First and Foremost
 
-You can use the [editor on GitHub](https://github.com/QDantro/QDantro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It's exciting to use the [editor on GitHub](https://github.com/QDantro/QDantro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Attempt to modify
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
