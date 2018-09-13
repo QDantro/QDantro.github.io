@@ -1,11 +1,11 @@
 
-## First and Foremost
+## Excited to Learn More
 
 It's exciting to use the [editor on GitHub](https://github.com/QDantro/QDantro.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Attempt to modify
+### Checking my recollection
 
 <img src="https://static1.squarespace.com/static/54e8ba93e4b07c3f655b452e/t/56c2a04520c64707756f4267/1493764650017/?format=750w">
 
